@@ -5,7 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.0.0" />
+    <PackageReference Include="Mediatr" Version="9.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="NetDevPack" Version="1.1.1" />
   </ItemGroup>
 
 </Project>
